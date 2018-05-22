@@ -639,6 +639,7 @@
 	<message key="submission.event.participantAdded">Se añadió a "{$name}" ({$username}) como {$userGroupName}.</message>
 	<message key="submission.howToCite">Cómo citar</message>
 	<message key="submission.howToCite.citationFormats">Formatos de citación</message>
+	<message key="submission.howToCite.downloadCitation">Formatos para descargar</message>
 	<message key="submission.submit.submissionLocaleDescription">Se aceptan envíos en varios idiomas. Elija el idioma principal del envío desde el menú desplegable de abajo.</message>
 	<message key="submission.upload.proof">Subir un archivo listo para publicación</message>
 	<message key="notification.type.copyeditorRequest">Se le ha pedido que revise las correcciones para "{$title}".</message>
