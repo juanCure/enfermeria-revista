@@ -353,7 +353,7 @@
 	<message key="submission.upload.query">Upload a Discussion File</message>
 	<message key="submission.summary">Summary</message>
 	<message key="submission.supplementaryFiles">Supplementary Files</message>
-	<message key="submission.supportingAgencies">Supporting Agencies</message>
+	<message key="submission.supportingAgencies">Financiamiento</message>
 	<message key="submission.currentAgencies">Current Agencies</message>
 	<message key="submission.indexingInformation">Indexing Information</message>
 	<message key="submission.titleAndAbstract">Title and Abstract</message>
