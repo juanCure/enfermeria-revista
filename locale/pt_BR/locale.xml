@@ -69,6 +69,7 @@
 	<message key="navigation.browseByAuthor">Por Autor</message>
 	<message key="navigation.infoForAuthors">Para Autores</message>
 	<message key="navigation.infoForLibrarians">Para Bibliotecários</message>
+	<message key="navigation.infoForReviewers">Para Revisores</message>
 	<message key="navigation.competingInterestGuidelines">Diretrizes para Conflito de Interesses</message>
 	<message key="navigation.infoForAuthors.long">Informação para Autores</message>
 	<message key="navigation.infoForLibrarians.long">Informação para Bibliotecários</message>

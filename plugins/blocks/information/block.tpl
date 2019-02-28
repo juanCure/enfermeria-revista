@@ -34,6 +34,12 @@
 					</a>
 				</li>
 			{/if}
+			{* El siguiente item fue agregado por Juan Manuel Rodríguez Martínez *}
+			<li>
+				<a href="{$baseUrl}/index.php/enfermeriauniversitaria/pararevisores">
+					{translate key="navigation.infoForReviewers"}
+				</a>
+			</li>
 		</ul>
 	</div>
 </div>
