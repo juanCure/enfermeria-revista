@@ -122,7 +122,7 @@
 	<message key="rt.findingReferences.windowsLiveAcademic">Windows Live Academic</message>
 	<message key="rt.lookUp">Look up terms</message>
 	<message key="rt.metadata.dublinCore.contributor">Contributor</message>
-	<message key="rt.metadata.dublinCore.coverage">Coverage</message>
+	<message key="rt.metadata.dublinCore.coverage">Cobertura. Lugar y periodo de la investigación (separar con punto y coma ;)</message>
 	<message key="rt.metadata.dublinCore.date">Date</message>
 	<message key="rt.metadata.dublinCore.description">Description</message>
 	<message key="rt.metadata.dublinCore">Dublin Core</message>

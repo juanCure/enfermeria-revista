@@ -387,7 +387,7 @@
 	<message key="submission.layout.galleyRemoteURL">URL remoto</message>
 	<message key="submission.layout.galleyRemoteURLValid">Informe um URL remoto válido (inclua o protocolo, por exemplo http://)</message>
 	<message key="submission.reviewed">Avaliado</message>
-	<message key="submission.supportingAgencies">Agências de fomento</message>
+	<message key="submission.supportingAgencies">Financiamiento</message>
 	<message key="submission.createRemote">Criar remoto</message>
 	<message key="submission.form.name">Informe um nome útil para o arquivo</message>
 	<message key="submission.form.replaceExisting">Substituindo um arquivo existente?</message>

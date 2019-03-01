@@ -326,7 +326,7 @@
 	<message key="submission.upload.dependent">Subir un archivo dependiente</message>
 	<message key="submission.summary">Resumen</message>
 	<message key="submission.supplementaryFiles">Archivos complementarios</message>
-	<message key="submission.supportingAgencies">Agencias de apoyo</message>
+	<message key="submission.supportingAgencies">Financiamiento</message>
 	<message key="submission.currentAgencies">Agencias</message>
 	<message key="submission.indexingInformation">Información de indexado</message>
 	<message key="submission.titleAndAbstract">Título y resumen</message>

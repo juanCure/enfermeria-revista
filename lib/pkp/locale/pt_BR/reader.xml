@@ -100,7 +100,7 @@
 	<message key="rt.findingReferences.windowsLiveAcademic">Windows Live Acadêmico</message>
 	<message key="rt.lookUp">Pesquisar palavra</message>
 	<message key="rt.metadata.dublinCore.contributor">Coautor</message>
-	<message key="rt.metadata.dublinCore.coverage">Cobertura</message>
+	<message key="rt.metadata.dublinCore.coverage">Cobertura. Lugar y periodo de la investigación (separar con punto y coma ;)</message>
 	<message key="rt.metadata.dublinCore.date">Data</message>
 	<message key="rt.metadata.dublinCore.description">Descrição</message>
 	<message key="rt.metadata.dublinCore">Dublin Core</message>
